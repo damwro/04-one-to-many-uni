@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45421294-7022-4449-bfc1-21499538a224" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sdacademy/demo/entity/VehicleOnLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instalationFiles/create-db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/instalationFiles/create-db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sdacademy/demo/entity/BusLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sdacademy/demo/entity/BusLine.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="04Student" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\dwr\IdeaProjects\04-one-to-many-uni" />
+        <option value="C:\Users\dwr\IdeaProjects\04-one-to-many-uni\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WB9g3DfYjtYApjD4gaY6ZARtCp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dwr\IdeaProjects\04-one-to-many-uni" />
+      <recent name="C:\Users\dwr\IdeaProjects\04-one-to-many-uni\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JDBCConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sdacademy.jdbc.JDBCConnection" />
+      <module name="04-one-to-many-uni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JDBCConnection" />
+        <item itemvalue="Application.JDBCConnection" />
+        <item itemvalue="Application.JDBCConnection" />
+        <item itemvalue="Application.JDBCConnection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45421294-7022-4449-bfc1-21499538a224" name="Default Changelist" comment="" />
+      <created>1578612229367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578612229367</updated>
+    </task>
+    <task id="LOCAL-00001" summary="literówka">
+      <created>1578612704889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578612704889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="literówka" />
+    <option name="LAST_COMMIT_MESSAGE" value="literówka" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1578612970065">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1578612970065" />
+    <state x="313" y="0" key="CommitChangelistDialog2" timestamp="1578612704066">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="313" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1578612704066" />
+    <state x="532" y="263" key="Github.ShareDialog" timestamp="1578612524209">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="532" y="263" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1578612524209" />
+    <state x="420" y="75" key="Github.UntrackedFilesDialog" timestamp="1578612544847">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="420" y="75" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1578612544847" />
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1578612706921">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1578612706921" />
+  </component>
+</project>

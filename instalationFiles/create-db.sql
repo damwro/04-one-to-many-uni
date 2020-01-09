@@ -53,7 +53,7 @@ DROP TABLE IF EXISTS `vehicle_on_line`;
 
 CREATE TABLE `vehicle_on_line` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `comment` varchar(256) DEFAULT NULL,
+  `model` varchar(256) DEFAULT NULL,
   `bus_line_id` int(11) DEFAULT NULL,
 
   PRIMARY KEY (`id`),
