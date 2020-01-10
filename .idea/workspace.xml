@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45421294-7022-4449-bfc1-21499538a224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sdacademy/CreateBusLineAndVehicleOnLineDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sdacademy/GetBusLineAndVehicleOnLineDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,14 +58,24 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sdacademy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dwr\IdeaProjects\04-one-to-many-uni" />
       <recent name="C:\Users\dwr\IdeaProjects\04-one-to-many-uni\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreateBusLineAndVehicleOnLineDemo">
+  <component name="RunManager" selected="Application.GetBusLineAndVehicleOnLineDemo">
     <configuration name="CreateBusLineAndVehicleOnLineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sdacademy.CreateBusLineAndVehicleOnLineDemo" />
+      <module name="04-one-to-many-uni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetBusLineAndVehicleOnLineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sdacademy.GetBusLineAndVehicleOnLineDemo" />
       <module name="04-one-to-many-uni" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetBusLineAndVehicleOnLineDemo" />
         <item itemvalue="Application.CreateBusLineAndVehicleOnLineDemo" />
-        <item itemvalue="Application.JDBCConnection" />
         <item itemvalue="Application.JDBCConnection" />
         <item itemvalue="Application.JDBCConnection" />
         <item itemvalue="Application.JDBCConnection" />
@@ -122,23 +132,31 @@
       <option name="project" value="LOCAL" />
       <updated>1578613648080</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dodawanie obiektów">
+      <created>1578614174603</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578614174603</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="literówka" />
     <MESSAGE value="Pojazd na linii oraz relacje i konfig bazy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pojazd na linii oraz relacje i konfig bazy" />
+    <MESSAGE value="dodawanie obiektów" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodawanie obiektów" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1578612970065">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1578612970065" />
-    <state x="313" y="0" key="CommitChangelistDialog2" timestamp="1578613647208">
+    <state x="313" y="0" key="CommitChangelistDialog2" timestamp="1578614173907">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="313" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1578613647208" />
+    <state x="313" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1578614173907" />
     <state x="532" y="263" key="Github.ShareDialog" timestamp="1578612524209">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -147,22 +165,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="420" y="75" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1578612544847" />
-    <state width="1323" height="308" key="GridCell.Tab.0.bottom" timestamp="1578614098659">
+    <state width="1323" height="308" key="GridCell.Tab.0.bottom" timestamp="1578614330996">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578614098659" />
-    <state width="1323" height="308" key="GridCell.Tab.0.center" timestamp="1578614098659">
+    <state width="1323" height="308" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578614330996" />
+    <state width="1323" height="308" key="GridCell.Tab.0.center" timestamp="1578614330996">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578614098659" />
-    <state width="1323" height="308" key="GridCell.Tab.0.left" timestamp="1578614098659">
+    <state width="1323" height="308" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578614330996" />
+    <state width="1323" height="308" key="GridCell.Tab.0.left" timestamp="1578614330992">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578614098659" />
-    <state width="1323" height="308" key="GridCell.Tab.0.right" timestamp="1578614098659">
+    <state width="1323" height="308" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578614330992" />
+    <state width="1323" height="308" key="GridCell.Tab.0.right" timestamp="1578614330996">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578614098659" />
+    <state width="1323" height="308" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578614330996" />
     <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1578613651352">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
