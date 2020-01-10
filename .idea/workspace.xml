@@ -66,9 +66,16 @@
       <recent name="C:\Users\dwr\IdeaProjects\04-one-to-many-uni\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GetBusLineAndVehicleOnLineDemo">
+  <component name="RunManager" selected="Application.DeleteBusLineAndVehicleOnLineDemo">
     <configuration name="CreateBusLineAndVehicleOnLineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sdacademy.CreateBusLineAndVehicleOnLineDemo" />
+      <module name="04-one-to-many-uni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteBusLineAndVehicleOnLineDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sdacademy.DeleteBusLineAndVehicleOnLineDemo" />
       <module name="04-one-to-many-uni" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,9 +97,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteBusLineAndVehicleOnLineDemo" />
         <item itemvalue="Application.GetBusLineAndVehicleOnLineDemo" />
         <item itemvalue="Application.CreateBusLineAndVehicleOnLineDemo" />
-        <item itemvalue="Application.JDBCConnection" />
         <item itemvalue="Application.JDBCConnection" />
         <item itemvalue="Application.JDBCConnection" />
       </list>
@@ -153,10 +160,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="488" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1578612970065" />
-    <state x="313" y="0" key="CommitChangelistDialog2" timestamp="1578614173907">
+    <state x="313" y="0" key="CommitChangelistDialog2" timestamp="1578614504771">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="313" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1578614173907" />
+    <state x="313" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1578614504771" />
     <state x="532" y="263" key="Github.ShareDialog" timestamp="1578612524209">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -165,22 +172,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="420" y="75" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1578612544847" />
-    <state width="1323" height="308" key="GridCell.Tab.0.bottom" timestamp="1578614330996">
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom" timestamp="1578614616476">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578614330996" />
-    <state width="1323" height="308" key="GridCell.Tab.0.center" timestamp="1578614330996">
+    <state width="1323" height="184" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578614616476" />
+    <state width="1323" height="184" key="GridCell.Tab.0.center" timestamp="1578614616476">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578614330996" />
-    <state width="1323" height="308" key="GridCell.Tab.0.left" timestamp="1578614330992">
+    <state width="1323" height="184" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578614616476" />
+    <state width="1323" height="184" key="GridCell.Tab.0.left" timestamp="1578614616476">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578614330992" />
-    <state width="1323" height="308" key="GridCell.Tab.0.right" timestamp="1578614330996">
+    <state width="1323" height="184" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578614616476" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right" timestamp="1578614616476">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="308" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578614330996" />
+    <state width="1323" height="184" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578614616476" />
     <state x="275" y="103" key="Vcs.Push.Dialog.v2" timestamp="1578613651352">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
